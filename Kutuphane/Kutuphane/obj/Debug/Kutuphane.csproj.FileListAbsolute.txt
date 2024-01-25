@@ -1,0 +1,44 @@
+C:\Users\genel\source\repos\Kutuphane\Kutuphane\bin\Debug\Kutuphane.exe.config
+C:\Users\genel\source\repos\Kutuphane\Kutuphane\bin\Debug\Kutuphane.exe
+C:\Users\genel\source\repos\Kutuphane\Kutuphane\bin\Debug\Kutuphane.pdb
+C:\Users\genel\source\repos\Kutuphane\Kutuphane\obj\Debug\Kutuphane.csproj.AssemblyReference.cache
+C:\Users\genel\source\repos\Kutuphane\Kutuphane\obj\Debug\Kutuphane.FrmBase.resources
+C:\Users\genel\source\repos\Kutuphane\Kutuphane\obj\Debug\Kutuphane.Properties.Resources.resources
+C:\Users\genel\source\repos\Kutuphane\Kutuphane\obj\Debug\Kutuphane.csproj.GenerateResource.cache
+C:\Users\genel\source\repos\Kutuphane\Kutuphane\obj\Debug\Kutuphane.csproj.CoreCompileInputs.cache
+C:\Users\genel\source\repos\Kutuphane\Kutuphane\obj\Debug\Kutuphane.exe
+C:\Users\genel\source\repos\Kutuphane\Kutuphane\obj\Debug\Kutuphane.pdb
+C:\Users\genel\source\repos\Kutuphane\Kutuphane\obj\Debug\Kutuphane.FrmUyeEkle.resources
+C:\Users\genel\source\repos\Kutuphane\Kutuphane\obj\Debug\Kutuphane.FrmKitapEkle.resources
+C:\Users\genel\source\repos\Kutuphane\Kutuphane\obj\Debug\Kutuphane.FrmYayineviEkle.resources
+Z:\Kutuphane\Kutuphane\bin\Debug\Kutuphane.exe.config
+Z:\Kutuphane\Kutuphane\bin\Debug\Kutuphane.exe
+Z:\Kutuphane\Kutuphane\bin\Debug\Kutuphane.pdb
+Z:\Kutuphane\Kutuphane\obj\Debug\Kutuphane.FrmBase.resources
+Z:\Kutuphane\Kutuphane\obj\Debug\Kutuphane.FrmKitapEkle.resources
+Z:\Kutuphane\Kutuphane\obj\Debug\Kutuphane.FrmUyeEkle.resources
+Z:\Kutuphane\Kutuphane\obj\Debug\Kutuphane.FrmYayineviEkle.resources
+Z:\Kutuphane\Kutuphane\obj\Debug\Kutuphane.Properties.Resources.resources
+Z:\Kutuphane\Kutuphane\obj\Debug\Kutuphane.csproj.GenerateResource.cache
+Z:\Kutuphane\Kutuphane\obj\Debug\Kutuphane.csproj.CoreCompileInputs.cache
+Z:\Kutuphane\Kutuphane\obj\Debug\Kutuphane.exe
+Z:\Kutuphane\Kutuphane\obj\Debug\Kutuphane.pdb
+Z:\Kutuphane\Kutuphane\obj\Debug\Kutuphane.FrmKitapAl.resources
+Z:\Kutuphane\Kutuphane\obj\Debug\Kutuphane.csproj.AssemblyReference.cache
+Z:\Kutuphane\Kutuphane\obj\Debug\Kutuphane.FrmKitapSil.resources
+C:\Users\user\OneDrive\Masaüstü\Orusbucocu Bersan\Kutuphane\Kutuphane\bin\Debug\Kutuphane.exe.config
+C:\Users\user\OneDrive\Masaüstü\Orusbucocu Bersan\Kutuphane\Kutuphane\bin\Debug\Kutuphane.exe
+C:\Users\user\OneDrive\Masaüstü\Orusbucocu Bersan\Kutuphane\Kutuphane\bin\Debug\Kutuphane.pdb
+C:\Users\user\OneDrive\Masaüstü\Orusbucocu Bersan\Kutuphane\Kutuphane\obj\Debug\Kutuphane.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Masaüstü\Orusbucocu Bersan\Kutuphane\Kutuphane\obj\Debug\Kutuphane.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\OneDrive\Masaüstü\Orusbucocu Bersan\Kutuphane\Kutuphane\obj\Debug\Kutuphane.FrmBase.resources
+C:\Users\user\OneDrive\Masaüstü\Orusbucocu Bersan\Kutuphane\Kutuphane\obj\Debug\Kutuphane.FrmKitapAl.resources
+C:\Users\user\OneDrive\Masaüstü\Orusbucocu Bersan\Kutuphane\Kutuphane\obj\Debug\Kutuphane.FrmKitapEkle.resources
+C:\Users\user\OneDrive\Masaüstü\Orusbucocu Bersan\Kutuphane\Kutuphane\obj\Debug\Kutuphane.FrmKitapSil.resources
+C:\Users\user\OneDrive\Masaüstü\Orusbucocu Bersan\Kutuphane\Kutuphane\obj\Debug\Kutuphane.FrmUyeEkle.resources
+C:\Users\user\OneDrive\Masaüstü\Orusbucocu Bersan\Kutuphane\Kutuphane\obj\Debug\Kutuphane.FrmYayineviEkle.resources
+C:\Users\user\OneDrive\Masaüstü\Orusbucocu Bersan\Kutuphane\Kutuphane\obj\Debug\Kutuphane.Properties.Resources.resources
+C:\Users\user\OneDrive\Masaüstü\Orusbucocu Bersan\Kutuphane\Kutuphane\obj\Debug\Kutuphane.csproj.GenerateResource.cache
+C:\Users\user\OneDrive\Masaüstü\Orusbucocu Bersan\Kutuphane\Kutuphane\obj\Debug\Kutuphane.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Masaüstü\Orusbucocu Bersan\Kutuphane\Kutuphane\obj\Debug\Kutuphane.exe
+C:\Users\user\OneDrive\Masaüstü\Orusbucocu Bersan\Kutuphane\Kutuphane\obj\Debug\Kutuphane.pdb

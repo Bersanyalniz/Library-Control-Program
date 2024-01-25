@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{C9DF5444-D3B8-4599-90EA-6B5AB5983363}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Kutuphane</RootNamespace>
+    <AssemblyName>Kutuphane</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DbHelper.cs" />
+    <Compile Include="FrmBase.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmBase.Designer.cs">
+      <DependentUpon>FrmBase.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmKitapAl.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmKitapAl.Designer.cs">
+      <DependentUpon>FrmKitapAl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmKitapEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmKitapEkle.Designer.cs">
+      <DependentUpon>FrmKitapEkle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmKitapSil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmKitapSil.Designer.cs">
+      <DependentUpon>FrmKitapSil.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmKitapİade.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmKitapİade.Designer.cs">
+      <DependentUpon>FrmKitapİade.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmUyeEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmUyeEkle.Designer.cs">
+      <DependentUpon>FrmUyeEkle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kitap.cs" />
+    <Compile Include="KitapHareket.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="FrmYayineviEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmYayineviEkle.Designer.cs">
+      <DependentUpon>FrmYayineviEkle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Uye.cs" />
+    <Compile Include="Yayinevi.cs" />
+    <EmbeddedResource Include="FrmBase.resx">
+      <DependentUpon>FrmBase.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmKitapAl.resx">
+      <DependentUpon>FrmKitapAl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmKitapEkle.resx">
+      <DependentUpon>FrmKitapEkle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmKitapSil.resx">
+      <DependentUpon>FrmKitapSil.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmUyeEkle.resx">
+      <DependentUpon>FrmUyeEkle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmYayineviEkle.resx">
+      <DependentUpon>FrmYayineviEkle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Kitap.datasource" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="Uye.datasource" />
+    <None Include="Yayinevi.datasource" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

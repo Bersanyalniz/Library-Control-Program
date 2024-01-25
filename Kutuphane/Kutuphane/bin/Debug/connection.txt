@@ -1,0 +1,1 @@
+Server=DESKTOP-B9K9IQU\SQLEXPRESS01;Database=Kutuphane;User Id=kullanıcı;Password=aslan123;
